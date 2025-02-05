@@ -18,9 +18,7 @@ SPA 브랜드는 이러한 소비 트렌드에 부합하는 대표적인 유통 
 ### 1.3 프로젝트 목표
 온라인 이커머스 플랫폼을 통한 SPAO 브랜드 충성 고객 범위 확대 및 매출 증진 도모
 
-### 1.4 가설
-
-### 1.5 사용환경, 패키지, 툴, 응용 프로그램
+### 1.4 사용환경, 패키지, 툴, 응용 프로그램
 - 프로그래밍 언어: Python3
 - 데이터 수집: Selenium, BeautifulSoup4
 - 데이터 분석 및 전처리: Pandas, Numpy, Scipy, Scikit-learn, Matplotlib, Seaborn
@@ -35,6 +33,7 @@ SPA 브랜드는 이러한 소비 트렌드에 부합하는 대표적인 유통 
 
 1) 오픈서베이
    - MZ세대 패션 앱 트렌드 리포트 2024
+     [바로가기](https://blog.opensurvey.co.kr/trendreport/mz-fashion-2024/)
    - 2024 소비자 소비 트렌드
      [바로가기](https://blog.opensurvey.co.kr/article/webinar-eatbuyplay-2024-5-buy/)
 2) Korea Fashion Big Data
@@ -49,5 +48,9 @@ SPA 브랜드는 이러한 소비 트렌드에 부합하는 대표적인 유통 
 ### 2.3 설문조사
 
 1) 연령대별, 성별별 옷 구매 고려 요소 설문조사 데이터
-   
+
+## 3. 데이터 전처리
+
+### 3.1 데이터 병합
+
 
