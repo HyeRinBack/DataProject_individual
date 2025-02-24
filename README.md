@@ -745,10 +745,9 @@ C. 신규 고객 유입
 **자동화된 답변 시스템**을 통해 고객 개개인에게 최적화된 제품 추천을 **실시간으로 제공**합니다.
 
 ### 6.2 선택 플랫폼
-## **7.2 선택 플랫폼**
 고객 맞춤형 경험 제공을 목표로 해당 시스템을 **Wix**와 **Zapier**를 활용한 자동화 시스템으로 구현하여 배포하였습니다.
 
-### 플랫폼 구성 요소
+#### 플랫폼 구성 요소:
 1. **Wix site**
   - 고객 정보 입력 Form을 통해 **성별, 카테고리, 체형, 브랜드 등의 정보를 입력
   - Form 양식 제출 시 고객 정보 실시간 수집
@@ -775,6 +774,19 @@ C. 신규 고객 유입
 - 추천 제품 링크 댓글 형태로 제공
 
 ### 6.4 테스트 진행 결과 (추후 사진 첨부)
+#### 6.4.1 정보 입력
+- Wix 추천 시스템 페이지를 통해 고객 정보를 직접 입력하고 제출합니다.
+<img width="261" alt="image" src="https://github.com/user-attachments/assets/04091ffd-7ff7-43e2-b517-9bf02a3ee429" />
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/088af7e6-0d0c-45cf-a1f0-54607a9faede" />
+
+- 제출이 진행되면 Zapier를 통해 자동화 시스템에 의하여 구글 스프레드로 정보가 자동 저장됩니다.
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/1729c454-7480-4192-ad25-194fbf623212" />
+
+- 저장된 파일 정보를 컴퓨터 로컬 파일로 저장하여 웹크롤링을 통해 추천 시스템 페이지 댓글로 자동 답변이 진행됩니다.
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/bec621bc-6a00-4dc3-8724-ff71de8fb90e" />
+
+- 답변에 달린 링크를 클릭하면 원하는 카테고리의 상품이 추천됩니다.
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/be0d155d-99c4-4352-a620-6feace5207d6" />
 
 ---
 
